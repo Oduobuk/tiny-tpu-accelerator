@@ -1,0 +1,8 @@
+.venv/
+sim_build/
+__pycache__/
+*.vcd
+*.xml
+.pytest_cache/
+*.pyc
+*.vvp
